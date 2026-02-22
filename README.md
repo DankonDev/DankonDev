@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Daniel Sitkiewicz (Dankon Games)</h1>
+  <h1>Daniel</h1>
   <p>Game Developer | Unity & C#</p>
 </div>
 
