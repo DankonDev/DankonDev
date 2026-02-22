@@ -1,16 +1,41 @@
-## Hi there 👋
+<div align="center">
+  <h1>Daniel Sitkiewicz (Dankon Games)</h1>
+  <p>Game Developer | Unity & C#</p>
+</div>
 
-<!--
-**DankonDev/DankonDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://store.steampowered.com/search/?developer=Daniel%20Sitkiewicz" target="_blank">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
+  </a>
+  <a href="https://play.google.com/store/apps/dev?id=7284010662733293019" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play" />
+  </a>
+  <a href="https://x.com/dankongames" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About
+* 🎮 Solo Game Developer with over 5 years of experience in Unity Engine.
+* 🚀 Released 15+ titles across multiple platforms.
+* 📈 Reached over 500,000 total game downloads.
+* 📫 Contact: contact@dankon.games
+
+### Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+### GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DankonDev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DankonDev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
