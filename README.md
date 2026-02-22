@@ -33,8 +33,11 @@
 </p>
 
 ### GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DankonDev&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DankonDev&layout=compact&theme=dark" alt="Top Languages" />
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DankonDev&show_icons=true&theme=dark)](https://github.com/DankonDev)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DankonDev&layout=compact&theme=dark)](https://github.com/DankonDev)
+
 </div>
