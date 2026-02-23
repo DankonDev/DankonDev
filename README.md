@@ -1,43 +1,16 @@
-<div align="center">
-  <h1>Daniel</h1>
-  <p>Game Developer | Unity & C#</p>
-</div>
+# 💫 About Me:
+🎮 Solo Game Developer with over 5 years of experience in Unity Engine.<br>🚀 Released 15+ titles across multiple platforms.<br>📈 Reached over 500,000 total game downloads.<br>📚 Currently learning: Dart & Flutter.<br>📫 Contact: dankongamescontact@gmail.com
 
-<div align="center">
-  <a href="https://store.steampowered.com/search/?developer=Daniel%20Sitkiewicz" target="_blank">
-    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
-  </a>
-  <a href="https://play.google.com/store/apps/dev?id=7284010662733293019" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play" />
-  </a>
-  <a href="https://x.com/dankongames" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
-  </a>
-</div>
 
-<br/>
+## 🌐 Socials:
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dankongames) 
 
-### About
-* 🎮 Solo Game Developer with over 5 years of experience in Unity Engine.
-* 🚀 Released 15+ titles across multiple platforms.
-* 📈 Reached over 500,000 total game downloads.
-* 📚 Currently learning: **Dart** & **Flutter**.
-* 📫 Contact: dankongamescontact@gmail.com
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DankonDev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=DankonDev&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DankonDev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
-### GitHub Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DankonDev&show_icons=true&theme=dark)](https://github.com/DankonDev)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DankonDev&layout=compact&theme=dark)](https://github.com/DankonDev)
-
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=DankonDev&icon=0&color=0)](https://visitcount.itsvg.in)
