@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About:
 🎮 Solo Game Developer with over 5 years of experience in Unity Engine.<br>🚀 Released 15+ titles across multiple platforms.<br>📈 Reached over 500,000 total game downloads.<br>📚 Currently learning: Dart & Flutter.<br>🚌 Side project: [Live Warsaw Bus Tracker](https://serwer2571710.home.pl/)<br>📫 Contact: dankongamescontact@gmail.com
 
 ## 🌐 Socials:
